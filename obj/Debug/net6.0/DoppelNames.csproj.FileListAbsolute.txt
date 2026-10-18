@@ -1,0 +1,12 @@
+c:\Users\patri\Downloads\DoppelNames-source (6)\DoppelNames\bin\Debug\net6.0\DoppelNames.deps.json
+c:\Users\patri\Downloads\DoppelNames-source (6)\DoppelNames\bin\Debug\net6.0\DoppelNames.dll
+c:\Users\patri\Downloads\DoppelNames-source (6)\DoppelNames\bin\Debug\net6.0\DoppelNames.pdb
+c:\Users\patri\Downloads\DoppelNames-source (6)\DoppelNames\obj\Debug\net6.0\DoppelNames.csproj.AssemblyReference.cache
+c:\Users\patri\Downloads\DoppelNames-source (6)\DoppelNames\obj\Debug\net6.0\DoppelNames.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\patri\Downloads\DoppelNames-source (6)\DoppelNames\obj\Debug\net6.0\DoppelNames.AssemblyInfoInputs.cache
+c:\Users\patri\Downloads\DoppelNames-source (6)\DoppelNames\obj\Debug\net6.0\DoppelNames.AssemblyInfo.cs
+c:\Users\patri\Downloads\DoppelNames-source (6)\DoppelNames\obj\Debug\net6.0\DoppelNames.csproj.CoreCompileInputs.cache
+c:\Users\patri\Downloads\DoppelNames-source (6)\DoppelNames\obj\Debug\net6.0\DoppelNames.dll
+c:\Users\patri\Downloads\DoppelNames-source (6)\DoppelNames\obj\Debug\net6.0\refint\DoppelNames.dll
+c:\Users\patri\Downloads\DoppelNames-source (6)\DoppelNames\obj\Debug\net6.0\DoppelNames.pdb
+c:\Users\patri\Downloads\DoppelNames-source (6)\DoppelNames\obj\Debug\net6.0\ref\DoppelNames.dll
