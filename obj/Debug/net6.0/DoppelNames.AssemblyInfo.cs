@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DoppelNames")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c943ef669a988128fcccf3775f2da64bf426a067")]
 [assembly: System.Reflection.AssemblyProductAttribute("DoppelNames")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DoppelNames")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
